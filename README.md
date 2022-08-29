@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## Hi there 👋
+- 🔭 I’m currently working on my master degree in Electrical and Computer Engineering
+- 🌱 I’m currently learning ECE 608 - Computational Models & Methods as well ECE 573 - Compilers and Translator Writing Systems
+- 👯 I’m looking to collaborate on project related to machine learning & computer vision
+- 📫 How to reach me:
+>phone 765-404-9879 
+>
+>Email hanyuz98@gmail.com
 <!--
 **zhu741/zhu741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
