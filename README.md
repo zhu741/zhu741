@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my master degree in Electrical and Computer Engineering
-- 🌱 I’m currently learning ECE 608 - Computational Models & Methods as well ECE 573 - Compilers and Translator Writing Systems
+- 🌱 I’m currently taking the course ECE 608 - Computational Models & Methods
 - 👯 I’m looking to collaborate on project related to machine learning & computer vision
 - 📫 How to reach me:
 >phone 765-404-9879 
