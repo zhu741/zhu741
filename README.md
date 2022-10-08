@@ -6,6 +6,10 @@
 >phone 765-404-9879 
 >
 >Email hanyuz98@gmail.com
+
+# Ongoing projects
+- Depth First Search On Digraph and its edges: [a link](https://github.com/zhu741/DFS-on-Digraphs-and-its-edges.git)
+- Object detection and Pose Estimation [a link](https://github.com/zhu741/Object-Detection-and-Tracking.git)
 <!--
 **zhu741/zhu741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
