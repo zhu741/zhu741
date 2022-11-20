@@ -3,7 +3,6 @@
 - 🌱 I’m currently taking the course ECE 608 - Computational Models & Methods
 - 👯 I’m looking to collaborate on project related to machine learning & computer vision
 - 📫 How to reach me:
->phone 765-404-9879 
 >
 >Email hanyuz98@gmail.com
 
