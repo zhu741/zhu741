@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my master degree in Electrical and Computer Engineering
-- 🌱 I’m currently taking the course ECE 608 - Computational Models & Methods
+- 🌱 I’m currently taking the course ECE 5211 - Applied Algorithm
 - 👯 I’m looking to collaborate on project related to machine learning & computer vision
 - 📫 How to reach me:
 >
